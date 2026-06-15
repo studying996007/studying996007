@@ -37,21 +37,10 @@
 <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=studying996007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="stats" />
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=studying996007&theme=tokyonight&hide_border=true" alt="streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=studying996007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=studying996007&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=studying996007&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
